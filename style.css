@@ -13,12 +13,30 @@ html {
 .bodytext {
   display: flex;
   flex-direciton: row;
-  margin: 5px;
-  padding: 10px;
+  margin: 15px;
   background-color: #00457A;
   color: white;
 }
 
+.four {
+  margin: 15px;
+  padding:25px;
+}
+
+.four {
+  margin: 15px;
+  padding:25px;
+}
+
+.four {
+  margin: 15px;
+  padding:25px;
+}
+
+.four {
+  margin: 15px;
+  padding:25px;
+}
 footer {
   display: flex;
   flex-direction: column
