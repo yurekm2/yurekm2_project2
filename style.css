@@ -51,8 +51,22 @@ html {
 
 footer {
   background-color: black;
+  color: white;
   display: flex;
-  flex-direction: column;
+  flex-direction: reverse-column;
   gap: 20px;
 }
+
+a {
+  text-decoration: none;
+  font-weight: 700;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: #7F7F7F;
+}  
 
