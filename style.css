@@ -10,6 +10,10 @@ html {
   font-family: Helvecita, sans-serif;
 }
 
+.logo {
+  max-width: 15%;
+  height: auto;
+
 .bodytext {
   display: flex;
   flex-direciton: row;
