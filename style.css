@@ -69,6 +69,11 @@ header {
   margin: 1em 0px 0px 0px;
 }
 
+.title h3 {
+  text-align: center;
+  margin: 0px 9em 0px 9em;
+}
+
 .title p {
   text-align: center;
   font-size: 0.7em;
