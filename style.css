@@ -39,6 +39,13 @@ header {
   text-align: center;
   text-transform: uppercase;
 }
+
+.tech {
+  display: block;
+  width: 1vw;
+  height: auto;
+  position: fixed;
+}
   
 .title {
   display: flex;
