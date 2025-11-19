@@ -133,12 +133,18 @@ footer {
 }
 
 .link {
+  display: flex;
+  flex-direction: column;
   align-items: center;
 }
 
 .link p {
   text-transform: uppercase;
-  size: 1.5em;
+  font-size: 1.5em;
+}
+
+.link a {
+  font-size: 0.8em;
 }
 
 .about {
