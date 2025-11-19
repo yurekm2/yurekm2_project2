@@ -15,12 +15,13 @@ header {
   display: flex;
   flex-direction: row;
   position: sticky;
+  align-items: center;
   top: 0px;
 }
 
-.logo {
+.logo img {
   max-width: 30%;
-  width: 15%;
+  width: 30%;
   height: auto;
   display: block;
 }
@@ -39,6 +40,18 @@ header {
   gap: 15px;
   background-color: white;
   color: white;
+}
+
+.bodytext h3 {
+  line-height: 1.1;
+  font-weight: 700;
+  font-size: 1.2em;
+}
+
+.bodytext p {
+  font-weight: 300;
+  font-size: 0.9em;
+  padding: 10px 0px 0px 0px;
 }
 
 .one {
