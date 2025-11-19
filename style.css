@@ -10,6 +10,14 @@ html {
   font-family: Helvecita, sans-serif;
 }
 
+header {
+  background-color: #00457A;
+  display: flex;
+  flex-direction: row;
+  position: sticky;
+  top: 0px;
+}
+
 .logo {
   max-width: 15%;
   height: auto;
