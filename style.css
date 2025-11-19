@@ -15,26 +15,30 @@ html {
   flex-direciton: row;
   margin: 15px;
   gap: 15px;
-  background-color: #00457A;
+  background-color: white;
   color: white;
 }
 
-.four {
+.one {
+  background-color: #00457A;
+  margin: 15px;
+  padding:25px;
+}
+
+.two {
+  background-color: #00457A;
+  margin: 15px;
+  padding:25px;
+}
+
+.three {
+  background-color: #00457A;
   margin: 15px;
   padding:25px;
 }
 
 .four {
-  margin: 15px;
-  padding:25px;
-}
-
-.four {
-  margin: 15px;
-  padding:25px;
-}
-
-.four {
+  background-color: #00457A;
   margin: 15px;
   padding:25px;
 }
