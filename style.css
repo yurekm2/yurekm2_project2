@@ -7,14 +7,19 @@ html {
   color: #222;
   line-height: 1.4;
   font-size: 16pt;
+  font-family: Helvecita, sans-serif;
 }
 
-bodytext {
+.bodytext {
   display: flex;
   flex-direciton: row;
   margin: 5px;
   padding: 10px;
+  background-color: #00457A;
+  color: white;
 }
 
-
+footer {
+  display: flex;
+  flex-direction: column
 
