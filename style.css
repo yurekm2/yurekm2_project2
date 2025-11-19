@@ -25,6 +25,13 @@ header {
   display: block;
 }
 
+.links {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  padding: 5px;
+}
+
 .bodytext {
   display: flex;
   flex-direciton: row;
