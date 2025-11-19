@@ -12,6 +12,7 @@ html {
 
 header {
   background-color: #00457A;
+  padding: 10px;
   display: flex;
   flex-direction: row;
   position: sticky;
