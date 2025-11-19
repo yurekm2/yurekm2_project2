@@ -5,7 +5,6 @@
 
 html {
   color: #222;
-  line-height: 1.4;
   font-size: 16pt;
   font-family: Helvecita, sans-serif;
 }
@@ -57,6 +56,15 @@ header {
   text-transform: uppercase;
 }
 
+.title p {
+  text-align: center;
+  font-size: 0.7em;
+  text-transform: uppercase;
+  color: #7F7F7F;
+  margin: 0px;
+  padding: 0px;
+}
+
 .bodytext {
   display: flex;
   flex-direciton: row;
@@ -64,6 +72,7 @@ header {
   gap: 15px;
   background-color: white;
   color: white;
+  line-height: 1.4;
 }
 
 .bodytext h3 {
