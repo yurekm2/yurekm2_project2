@@ -9,7 +9,12 @@ html {
   font-size: 16pt;
 }
 
-
+bodytext {
+  display: flex;
+  flex-direciton: row;
+  margin: 5px;
+  padding: 10px;
+}
 
 
 
