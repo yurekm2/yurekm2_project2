@@ -19,7 +19,8 @@ header {
 }
 
 .logo {
-  max-width: 15%;
+  max-width: 30%;
+  width: 15%;
   height: auto;
   display: block;
 }
