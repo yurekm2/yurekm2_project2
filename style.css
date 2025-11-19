@@ -48,7 +48,11 @@ html {
   margin: 15px;
   padding:25px;
 }
+
 footer {
+  background-color: black;
   display: flex;
-  flex-direction: column
+  flex-direction: column;
+  gap: 20px;
+}
 
