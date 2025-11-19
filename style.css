@@ -5,13 +5,13 @@
 
 html {
   color: #222;
-  font-size: 16pt;
+  font-size: 16px;
   font-family: Helvecita, sans-serif;
 }
 
 header {
   background-color: #00457A;
-  padding: 10px;
+  padding: 0.625em;
   display: flex;
   flex-direction: row;
   position: sticky;
@@ -30,8 +30,8 @@ header {
 .links {
   display: flex;
   flex-direction: column;
-  margin: 5px;
-  padding: 5px;
+  margin: 0.3125em;
+  padding: 0.3125em;
 }
 
 .ind {
@@ -69,15 +69,15 @@ header {
   font-size: 0.7em;
   text-transform: uppercase;
   color: #7F7F7F;
-  margin: 15 0px 0px 0px;
+  margin: 0.9375em 0px 0px 0px;
   padding: 0px;
 }
 
 .bodytext {
   display: flex;
   flex-direciton: row;
-  margin: 15px;
-  gap: 15px;
+  margin: 0.9375em;
+  gap: 0.9375em;
   background-color: white;
   color: white;
   line-height: 1.4;
@@ -92,31 +92,31 @@ header {
 .bodytext p {
   font-weight: 300;
   font-size: 0.9em;
-  padding: 20px 0px 0px 0px;
+  padding: 1.25em 0px 0px 0px;
 }
 
 .one {
   background-color: #00457A;
-  margin: 15px;
-  padding:25px;
+  margin: 0.9375em;
+  padding: 1.56em;
 }
 
 .two {
   background-color: #00457A;
-  margin: 15px;
-  padding:25px;
+  margin: 0.9375em;
+  padding: 1.56em;
 }
 
 .three {
   background-color: #00457A;
-  margin: 15px;
-  padding:25px;
+  margin: 0.9375em;
+  padding: 1.56em;
 }
 
 .four {
   background-color: #00457A;
-  margin: 15px;
-  padding:25px;
+  margin: 0.9375em;
+  padding: 1.56em;
 }
 
 footer {
@@ -124,7 +124,7 @@ footer {
   color: white;
   display: flex;
   flex-direction: column-reverse;
-  gap: 20px;
+  gap: 1.25em;
 }
 
 a {
