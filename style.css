@@ -148,7 +148,8 @@ footer {
 
 .link p {
   text-transform: uppercase;
-  font-size: 1.5em;
+  font-size: 1.8em;
+  font-weight: 999;
 }
 
 .link a {
