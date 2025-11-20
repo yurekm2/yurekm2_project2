@@ -168,6 +168,10 @@ footer {
   margin-bottom: 1.7em;
 }
 
+.about h2 {
+  text-transform: uppercase;
+}
+
 a {
   text-decoration: none;
   font-weight: 700;
