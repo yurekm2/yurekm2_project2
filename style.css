@@ -192,20 +192,32 @@ h1 {
 }
 
 @media (max-width: 480px) {
-  .bodytext {
+  
+ .bodytext {
     flex-direction: row;
     gap: 0.5em;
   }
-  header {
+  
+ header {
     align-items: center;
     flex-direction: column;
   }
+  
  .links {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
   }
- .title h1 {
-    font-size: 5vmin;
+ .title h1 { font-size: 15vmin;
   }
+
+  .title h2 {
+    font-size: 2em;
+  }
+  
+  .title h3 {
+    font-size: 1em;
+    margin: 0px 2em
+  }
+  
 }
