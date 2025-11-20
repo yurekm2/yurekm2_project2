@@ -202,11 +202,16 @@ h1 {
     flex-direction: column;
     align-items: center;
   }
+
+  .logo img {
+    margin: 0px;
+  }
   
   .links {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    margin: 0px;
   }
 
   .ind {
