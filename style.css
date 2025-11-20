@@ -194,7 +194,7 @@ h1 {
 @media (max-width: 480px) {
   
   .bodytext {
-    flex-direction: row;
+    flex-direction: column;
     gap: 0.5em;
   }
   
