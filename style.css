@@ -196,4 +196,9 @@ h1 {
     flex-direction: row;
     gap: 0.5em;
   }
+  .logo img {
+    max-width: 50%;
+    width: 50%;
+    height: auto;
+    display: block;
 }
